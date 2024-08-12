@@ -1,0 +1,14 @@
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\bin\Debug\net8.0\arrayCRUD.exe
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\bin\Debug\net8.0\arrayCRUD.deps.json
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\bin\Debug\net8.0\arrayCRUD.runtimeconfig.json
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\bin\Debug\net8.0\arrayCRUD.dll
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\bin\Debug\net8.0\arrayCRUD.pdb
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.AssemblyInfoInputs.cache
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.AssemblyInfo.cs
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.csproj.CoreCompileInputs.cache
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.dll
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\refint\arrayCRUD.dll
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.pdb
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\arrayCRUD.genruntimeconfig.cache
+C:\Users\EL'SOLO HUB\Documents\Codes\Cpp\dotNet\arrayCRUD\obj\Debug\net8.0\ref\arrayCRUD.dll
