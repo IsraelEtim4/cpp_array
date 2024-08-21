@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\arrayCRUD\\arrayCRUD.csproj",
+      "projectUniqueName": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\arrayCRUD\\arrayCRUD.csproj",
       "projectName": "arrayCRUD",
-      "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\arrayCRUD\\arrayCRUD.csproj",
+      "projectPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\arrayCRUD\\arrayCRUD.csproj",
       "packagesPath": "C:\\Users\\EL'SOLO HUB\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\Cpp\\dotNet\\arrayCRUD\\obj\\",
+      "outputPath": "C:\\Users\\EL'SOLO HUB\\Documents\\Codes\\C#\\arrayCRUD\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\EL'SOLO HUB\\AppData\\Roaming\\NuGet\\NuGet.Config",
